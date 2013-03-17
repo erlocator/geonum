@@ -1,6 +1,6 @@
 {application, geonum,
     [
-        {description, "geonum functions written in C with NIF wrapper"},
+        {description, "geonum"},
         {vsn, "0.1.0"},
         {registered, []},
         {applications, [
