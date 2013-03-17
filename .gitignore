@@ -1,0 +1,4 @@
+.eunit/*
+ebin/*
+c_src/*.o
+c_src/*.so
